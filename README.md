@@ -5,8 +5,9 @@ Modular architecture (memory, config, echo)
 Easy to expand (GUI, TTS, agents, etc.)
 
 Requirements:
-Python, 3+
+Python, 3+ (enable PATH checkbox)
 System requirements are probably low depending on what you're planning to implement.
+MAKE SURE you add your API code to the config.json, This is not standalone and uses API keys to function.
 
 Notes:
 Highly scalable and modular, this is the main tie in for AI on your system,
